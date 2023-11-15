@@ -1,0 +1,100 @@
+Symptom,Medicine
+Cough,Cough Syrup
+Sore throat,Throat Lozenges
+Fever,Acetaminophen
+Headache,Ibuprofen
+Nausea,Antiemetic
+Vomiting,Antiemetic
+Fatigue,Caffeine
+Muscle aches,Pain Reliever
+Joint pain,Pain Reliever
+Runny nose,Decongestant
+Congestion,Decongestant
+Sneezing,Antihistamine
+Shortness of breath,Inhaler
+Difficulty breathing,Inhaler
+Chest pain,Aspirin
+Wheezing,Inhaler
+Rash,Antihistamine
+Itching,Antihistamine
+Hives,Antihistamine
+Swelling,Antihistamine
+Eye irritation,Eye Drops
+Ear pain,Ear Drops
+Sensitivity to light,Sunglasses
+Blurred vision,Eye Exam
+Dizziness,Meclizine
+Confusion,Medical Attention
+Memory loss,Medical Attention
+Seizures,Medical Attention
+Loss of consciousness,Medical Attention
+Numbness or tingling,Medical Attention
+Weakness,Medical Attention
+Speech difficulties,Medical Attention
+Difficulty swallowing,Medical Attention
+Abdominal pain,Antacid
+Nausea or vomiting,Antiemetic
+Diarrhea,Antidiarrheal
+Constipation,Laxative
+Bloating,Antiflatulent
+Indigestion,Antacid
+Heartburn,Antacid
+Loss of appetite,Medical Attention
+Weight loss,Medical Attention
+Weight gain,Medical Attention
+Jaundice,Medical Attention
+Dark urine,Medical Attention
+Pale stools,Medical Attention
+Itchy skin,Antihistamine
+Joint swelling,Pain Reliever
+Joint stiffness,Pain Reliever
+Back pain,Pain Reliever
+Neck pain,Pain Reliever
+Shoulder pain,Pain Reliever
+Arm pain,Pain Reliever
+Leg pain,Pain Reliever
+Foot pain,Pain Reliever
+Chest tightness,Inhaler
+Chest discomfort,Medical Attention
+Heart palpitations,Medical Attention
+Rapid heartbeat,Medical Attention
+High blood pressure,Antihypertensive
+Low blood pressure,Medical Attention
+Swollen feet or ankles,Diuretic
+Difficulty sleeping,Sleep Aid
+Excessive thirst,Medical Attention
+Frequent urination,Medical Attention
+Painful urination,Medical Attention
+Blood in urine,Medical Attention
+Difficulty urinating,Medical Attention
+Sexual dysfunction,Medical Attention
+Infertility,Medical Attention
+Irregular periods,Medical Attention
+Heavy periods,Medical Attention
+Painful periods,Pain Reliever
+Hot flashes,Hormone Replacement Therapy
+Night sweats,Hormone Replacement Therapy
+Mood swings,Medical Attention
+Anxiety,Medical Attention
+Depression,Medical Attention
+Irritability,Medical Attention
+Difficulty concentrating,Medical Attention
+Headaches/migraines,Pain Reliever
+Chronic fatigue,Caffeine
+Muscle weakness,Medical Attention
+Frequent infections,Antibiotic
+Swollen lymph nodes,Medical Attention
+Bruising easily,Medical Attention
+Bleeding gums,Medical Attention
+Poor wound healing,Medical Attention
+Hair loss,Medical Attention
+Dry skin,Moisturizer
+Brittle nails,Medical Attention
+Cold intolerance,Medical Attention
+Heat intolerance,Medical Attention
+Excessive sweating,Medical Attention
+Tremors,Medical Attention
+Balance problems,Medical Attention
+Involuntary movements,Medical Attention
+Muscle rigidity,Medical Attention
+Muscle spasms,Medical Attention
